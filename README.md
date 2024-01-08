@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, World! :earth_africa: I'm Jakub
 
-<!--
-**nbbn/nbbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer from Poland :poland: 🇪🇺.  
+I spend most of my professional life crafting commercial software which isn't usually published on Github.
 
-Here are some ideas to get you started:
+But fear not! I'm avidly working towards enhancing my Github presence.  
+You'll find me contributing more to this platform, optimizing my GitHub stats that are visible below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stay connected! :octocat:
+
+#### Some stats:
+
+![](https://komarev.com/ghpvc/?username=nbbn&style=flat-square&base=179)
+
+![nbbns stats](https://github-readme-stats.vercel.app/api?username=nbbn&theme=dark)
+![nbbns stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nbbn&layout=donut&theme=dark)
+
+![nbbns stats](https://github-profile-trophy.vercel.app/?username=nbbn&theme=onedark)
+
+![nbbns stats](https://github-readme-streak-stats.herokuapp.com/?user=nbbn&theme=dark)
